@@ -1,9 +1,15 @@
-*LLMs : IBM SkillsBuild*
+**LLMs : IBM SkillsBuild**
+
 **What Are LLMs?**
+
 1.LLMs are a type of AI models trained on immense amounts of data, making them capable of understanding and generating natural language and other types of content to perform a wide range of tasks.
+
 2.LLMs can understand and use human language in new ways, enabling computers to interpret context, craft sentences, and produce high-quality text that matches your needs.
+
 3. Whether managing customer communications, personalizing marketing campaigns, or streamlining content workflows, LLMs help save time and enhance efficiency while maintaining quality and consistency.
+4. 
 **Capabilities of LLMs**
+
 1.NLP
 2.
 3.
