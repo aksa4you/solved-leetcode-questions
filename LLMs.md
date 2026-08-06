@@ -6,11 +6,12 @@
 
 2.LLMs can understand and use human language in new ways, enabling computers to interpret context, craft sentences, and produce high-quality text that matches your needs.
 
-3. Whether managing customer communications, personalizing marketing campaigns, or streamlining content workflows, LLMs help save time and enhance efficiency while maintaining quality and consistency.
-4. 
+3.Whether managing customer communications, personalizing marketing campaigns, or streamlining content workflows, LLMs help save time and enhance efficiency while maintaining quality and consistency.
+   
 **Capabilities of LLMs**
 
-1.NLP
+1.NLP-
+
 2.
 3.
 4.
