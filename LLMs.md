@@ -1,4 +1,4 @@
-**LLMs : IBM SkillsBuild*
+**LLMs : IBM SkillsBuild**
 
 **What Are LLMs?**
 
